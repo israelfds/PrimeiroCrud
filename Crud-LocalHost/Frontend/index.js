@@ -55,6 +55,7 @@ async function PopulaTabela() {
     }
 }
 
+
 $(async function () {
     //EXECUTA AO CARREGAR DA TELA
     
